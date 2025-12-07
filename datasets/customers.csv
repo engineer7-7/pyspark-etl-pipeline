@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,signup_date,country,segment
+101,Nikos,Petrou,2023-10-01,Greece,Premium
+102,Maria,Ioannou,2023-11-15,Greece,Standard
+103,John,Smith,2022-05-20,UK,Standard
+104,Emily,Brown,2021-09-30,USA,Premium
+105,Carlos,Mendez,2022-12-10,USA,Standard
+106,Akira,Tanaka,2023-02-18,Japan,Premium

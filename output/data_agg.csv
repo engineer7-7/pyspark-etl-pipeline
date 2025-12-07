@@ -1,0 +1,7 @@
+,region,year,month,total_amount,avg_amount,transaction_count,high_value_count
+0,Europe,2024,1,425.5,141.83,3,1
+1,Europe,2024,3,285.75,142.88,2,0
+2,Europe,2024,2,49.99,49.99,1,0
+3,Asia,2024,3,245.5,122.75,2,0
+4,North_america,2024,2,399.9,199.95,2,1
+5,North_america,2024,3,580.0,290.0,2,1
